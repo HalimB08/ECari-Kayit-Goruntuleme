@@ -1,0 +1,2 @@
+<?php 
+$degisimvarmi = "0";
