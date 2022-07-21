@@ -1,5 +1,5 @@
 # ECari-Kayit-Goruntuleme
-Carilerinizi kaydetmeniz ve internet ortamında saklamanızı sağlayan mini bir projedir. Carilerinizi detaylı bir şekilde filtreliyerek görebilirsiniz. PHP öğrenirken kendimi geliştirmek için yaptım.
+Carilerinizi kaydetmeniz ve internet ortamında saklamanızı sağlayan mini bir projedir. Carilerinizi detaylı bir şekilde filtreliyerek listeleyebilrsiniz. PHP öğrenirken kendimi geliştirmek için yaptım.
 ![1](https://user-images.githubusercontent.com/71719411/180276350-6459a070-f15c-49fa-a735-25023aa37566.png)
 ![2](https://user-images.githubusercontent.com/71719411/180276404-d5887080-9f9b-4dea-968b-a0b7e42cf082.png)
 ![3](https://user-images.githubusercontent.com/71719411/180276407-40802a60-c0ed-4118-8d4d-b7fd7ff87835.png)
